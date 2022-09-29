@@ -53,7 +53,6 @@ D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\ref\RestaurantApi.dll
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\RestaurantApi.pdb
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\RestaurantApi.genruntimeconfig.cache
-D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\RestaurantApi.csproj.AssemblyReference.cache
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\Humanizer.dll
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -86,3 +85,4 @@ D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\RestaurantApi.csproj.AssemblyReference.cache
