@@ -19,6 +19,15 @@ namespace RestaurantApi.Controllers
             _restaurantServices = restaurantServices;
         }
 
+        [HttpPut("{id}")]
+        public ActionResult Modify([FromRoute]int id, [FromBody]ModifyRestaurantDto dto)
+        {
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+            var isModified = _restaurantServices.Modify(id, dto);
+            if (!isModified) return NotFound();
+            return Ok();
+        }
+
         [HttpDelete("{id}")]
         public ActionResult Delete([FromRoute] int id)
         {
