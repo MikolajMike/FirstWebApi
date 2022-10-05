@@ -19,6 +19,13 @@ namespace RestaurantApi.Controllers
             _restaurantServices = restaurantServices;
         }
 
+        [HttpDelete("{id}")]
+        public ActionResult Delete([FromRoute] int id)
+        {
+            var isDeleted = _restaurantServices.Delete(id);
+            if (isDeleted) return NoContent();
+            return NotFound();
+        }
 
         [HttpPost]
         public ActionResult CreateRestaurant([FromBody]CreateRestaurantDto dto)
