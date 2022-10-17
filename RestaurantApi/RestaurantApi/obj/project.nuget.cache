@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pmbOFBtjcrz70B5wIiF+A7ISFpbP2dnuXQxxL6Ipd0uF76aCS4ov3cgm5ZWBGqs4+wfU9BaallyMk/0WVCNeWA==",
+  "dgSpecHash": "eZTIBQAg1R57w+6o4G0IQKmPwM4c5+m3fNsTafeKKM93FBYGBlkn+2C4MnmcWqWm7GAKoys0mIySfsxpJ732Cw==",
   "success": true,
   "projectFilePath": "D:\\Nauka\\MyFirstWebApi\\FirstWebApi\\RestaurantApi\\RestaurantApi\\RestaurantApi.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,9 @@
     "C:\\Users\\Mikolaj\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Mikolaj\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\nlog.extensions.logging\\5.0.4\\nlog.extensions.logging.5.0.4.nupkg.sha512",
+    "C:\\Users\\Mikolaj\\.nuget\\packages\\nlog.web.aspnetcore\\5.1.4\\nlog.web.aspnetcore.5.1.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Mikolaj\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Mikolaj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

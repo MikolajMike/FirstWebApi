@@ -91,3 +91,8 @@ D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\nlog.config
+D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\NLog.dll
+D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+D:\Nauka\MyFirstWebApi\FirstWebApi\RestaurantApi\RestaurantApi\obj\Debug\net5.0\RestaurantApi.csproj.AssemblyReference.cache
